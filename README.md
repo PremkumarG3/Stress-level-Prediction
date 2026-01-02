@@ -356,5 +356,3 @@ Developed as a comprehensive stress prediction and mental health advisory system
 <<<<<<< HEAD
 ⭐ If you find this project helpful, please consider giving it a star!
 =======
-⭐ If you find this project helpful, please consider giving it a star!
->>>>>>> f4e1ac061dada8ed88680134e6d8ea85f3772711
