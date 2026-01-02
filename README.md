@@ -351,8 +351,4 @@ This project is created for educational and mental health assessment purposes.
 
 Developed as a comprehensive stress prediction and mental health advisory system.
 
----
-
-<<<<<<< HEAD
 ⭐ If you find this project helpful, please consider giving it a star!
-=======
